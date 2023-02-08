@@ -634,7 +634,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Carbon](https://ats.comparably.com/api/v1/lvr/carbon/02cf6a7e-d13f-47d1-823d-6c4a8bb0f2ed) | Redwood City, CA | Software Engineering Intern |
 | [Ellington Management Group](https://phh.tbe.taleo.net/phh03/ats/careers/v2/viewRequisition?org=ELLINGTONMGMTGRP&cws=37&rid=123) | Old Greenwich, CT | SUMMER + FALL 2023 CO-OP – SOFTWARE DEVELOPER / DATA ENGINEER |
 | [Societe Generale](https://careers.societegenerale.com/en/job-offers/internship-it-full-stack-development-230002JI-en) | NYC | INTERNSHIP-IT Full Stack Development |
-
+| [Los Alamos National Laboratory](https://parallelcomputing.lanl.gov) | Los Alamos, NM | LANL Parallel Computing Research Intern (must be US citizen) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
